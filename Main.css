@@ -1,0 +1,284 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/713457.jpg.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 30px 79px 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 826px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Screenshot_3.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 16px 91px 0;
+}
+
+.u-section-2 .u-text-2 {
+  width: 826px;
+  margin: 16px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+} .u-section-3 {
+  min-height: 534px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 29px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  width: 746px;
+  margin: 8px auto 0;
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 375px;
+  grid-gap: 17px 17px;
+  margin-top: 29px;
+  margin-bottom: 29px;
+}
+
+.u-section-3 .u-gallery-inner-1 {
+  grid-template-columns: auto auto;
+  grid-gap: 17px 17px;
+}
+
+.u-section-3 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 467px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 378px);
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 197px);
+    margin-right: calc(((100% - 1140px) / 2) + 197px);
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 313px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 1137px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+    margin-right: calc(((100% - 1140px) / 2) + 210px);
+    width: 720px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 994px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    min-height: 897px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+    margin-right: calc(((100% - 1140px) / 2) + 300px);
+    width: 540px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 750px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    min-height: 630px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: calc(((100% - 1140px) / 2) + 442px);
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-right: calc(((100% - 1140px) / 2) + 400px);
+    width: 340px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 479px;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/GaDeiStu_jurassic_foresw_with_lake_fd1fd841_4c99_4eef_80f2_86c0d6b9421a.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 797px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 200px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  width: 826px;
+  margin: 8px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 657px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 503px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 377px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 340px;
+  }
+}
